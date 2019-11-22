@@ -1,0 +1,8 @@
+1,Alice Bob,1010 street  
+2,Chris,1010 street 
+3,Logan,2010 street 
+4,Gabriel,3010 street 
+5,Gary,4010 street 
+6,Daniel,5010 street
+7,Luke,6010 street 
+8,Gartrel,7010 street 
